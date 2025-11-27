@@ -1,0 +1,5 @@
+{
+  "name": "智能碳循环教练 (Smart Carb Cycle)",
+  "description": "基于AI的个性化碳循环饮食与训练计划生成器，包含每日数据追踪与智能助教。",
+  "requestFramePermissions": []
+}
